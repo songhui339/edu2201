@@ -23,6 +23,11 @@ body tag -> 웹 페이지 내용
 ```
 <!DOCTYPE html>
 <html>
-
+  <head>
+    웹문서의 부가 정보들
+  </head>
+  <body>
+    웹문서의 내용
+  </body>
 </html>
 ```
